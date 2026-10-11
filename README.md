@@ -6,7 +6,7 @@ An end-to-end data analytics portfolio project examining the growth trajectory, 
 ## 🖥️ Dashboard Preview
 An interactive executive dashboard built in Power BI visualizing key metrics, geographic hubs, founding velocity, and sector saturation:
 
-![Pakistan Startup Ecosystem Dashboard Preview](pakistan_startup_Screenshot.png)
+![Pakistan Startup Ecosystem Dashboard Preview](pakistan_startup_screenshot.png)
 ---
 
 ## 🚀 Project Overview
